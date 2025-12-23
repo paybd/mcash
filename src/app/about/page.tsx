@@ -28,9 +28,9 @@ export default function AboutPage() {
           </div>
           <div className="relative mx-auto w-full max-w-md aspect-[9/19]">
             <div className="absolute inset-0 rounded-[3rem] bg-neutral-900 shadow-2xl" />
-            <div className="absolute left-3 right-3 top-4 bottom-4 rounded-[2.5rem] bg-black overflow-hidden">
-              <Image src="/assets/phone.jpg" alt="Mcash Remit app" fill className="object-cover" />
-            </div>
+            
+              <Image src="/assets/mockup.png" alt="Mcash Remit app" fill className="object-cover" />
+          
           </div>
         </div>
       </section>
